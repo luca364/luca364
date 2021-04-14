@@ -38,7 +38,7 @@ I'm Luca a Java Dev :thinking:. I Spend most of time coding outstanding projects
 
 I love sharing knowledge and putting tutorials, courses and posts together for helping other developers
 
-#### Github Stats
+
 
 
 
