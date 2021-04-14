@@ -4,7 +4,7 @@ I'm Luca a Java Dev :thinking:. I Spend most of time coding outstanding projects
 
 :mailbox: Reach me out!
 
-Mail(mailto:nixman676@gmail.com)
+[Mail](mailto:nixman676@gmail.com)
 
 <!-- TODO: Add last video link -->
 
