@@ -29,19 +29,5 @@ I'm Luca a Java Dev :thinking:. I Spend most of time coding outstanding projects
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=luca364&count_private=true&theme=tokyonight&hide=contribs,prs)
 
-<details>
-<summary>
-  More stuff about me
-</summary>
-
-<br >
-
-I love sharing knowledge and putting tutorials, courses and posts together for helping other developers
-
-
-
-
-
-</details>
 
 
