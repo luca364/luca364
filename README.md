@@ -27,6 +27,8 @@ I'm Luca a Java Dev :thinking:. I Spend most of time coding outstanding projects
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=luca364)
 
+![Github stats](https://github-readme-stats.vercel.app/api?username=luca364&count_private=true&theme=tokyonight&hide=contribs,prs)
+
 <details>
 <summary>
   More stuff about me
@@ -38,7 +40,7 @@ I love sharing knowledge and putting tutorials, courses and posts together for h
 
 #### Github Stats
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=luca364&count_private=true&theme=tokyonight&hide=contribs,prs)
+
 
 </details>
 
