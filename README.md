@@ -4,13 +4,13 @@ I'm Luca a Java Dev :thinking:. I Spend most of time coding outstanding projects
 
 :mailbox: Reach me out!
 
-[Mail](mailto:nixman676@gmail.com)
+
 
 
 
 - 🔭 I’m currently working at @Bertylol
 - :computer: Most used line of code `return;`
-- 📫 How to reach me: nixman676@gmail.com.
+- 📫 How to reach me:
 - ⚡ Fun fact: I play games ;-;
 
 #### Top Technologies
