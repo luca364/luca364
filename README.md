@@ -10,7 +10,6 @@ I'm Luca a Java Dev :thinking:. I Spend most of time coding outstanding projects
 
 - 🔭 I’m currently working at @Bertylol
 - :computer: Most used line of code `return;`
-- 📫 How to reach me: nixman676@gmail.com.
 - ⚡ Fun fact: I play games ;-;
 
 #### Top Technologies
