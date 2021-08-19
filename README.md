@@ -20,7 +20,7 @@ I'm Luca a Java Dev :thinking:. I Spend most of time coding outstanding projects
 [![forthebadge](https://forthebadge.com/images/badges/made-with-java.svg)](https://forthebadge.com)
 
 
-#### Bizness
+#### Business
 - :email: nixman676@gmail.com
 
 
