@@ -20,10 +20,6 @@ I'm Luca a Java Dev :thinking:. I Spend most of time coding outstanding projects
 [![forthebadge](https://forthebadge.com/images/badges/made-with-java.svg)](https://forthebadge.com)
 
 
-#### Business
-- :email: nixman676@gmail.com
-
-
 #### Profile Visits 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=luca364)
