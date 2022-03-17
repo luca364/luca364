@@ -21,7 +21,6 @@ I'm Luca a  Dev :thinking:. I Spend most of time coding outstanding projects.
 
 #### Profile Visits 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=luca364)
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=luca364&count_private=true&theme=tokyonight&hide=contribs,prs)
 
